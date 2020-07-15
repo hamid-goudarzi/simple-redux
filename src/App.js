@@ -6,7 +6,7 @@ function App() {
     return (
         <div className="container rtl">
             <Alert  className="w-50 mx-auto text-center mt-5">
-                Reux is easier than you thought <span>😁</span> 
+                Redux is easier than you thought  
             </Alert>
             <Counter />
         </div>
